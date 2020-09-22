@@ -2,10 +2,10 @@
   <v-app>
     <v-app-bar
       app
+      elevation="1"
       color="white"
     >
     </v-app-bar>
-
     <v-main>
       <router-view />
     </v-main>
